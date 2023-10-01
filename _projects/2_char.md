@@ -4,7 +4,7 @@ title: Char comics
 description: Adventures of Charrie
 img: assets/img/char.png
 importance: 2
-category: work
+category: Engagement
 giscus_comments: false
 ---
 

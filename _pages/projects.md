@@ -2,12 +2,26 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Find my active and completed projects here
+description:
 nav: true
 nav_order: 3
-display_categories: #[work, fun]
+display_categories: [Research, Engagement]
 horizontal: false
 ---
+
+## Biochar
+
+I specialise in production, characterisation, and several energy and enviormental applications of biochar. Biochar is a multi-functional, carbon-rich product of the thermochemical conversion of biomass and organic wastes under oxygen-deficient conditions. Biochar’s long-term carbon sequestration potential and is recognised by the IPCC as a carbon-negative technology.
+
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/research_in_brief.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+Find my projects here
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -56,3 +70,4 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+

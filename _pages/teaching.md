@@ -7,26 +7,15 @@ nav: true
 nav_order: 4
 ---
 
-## PhD Level Courses
-* Fall Semester 2023-24
-    * Course: EC9A3 Advanced Econometric Theory 
-    * Instructor: Eric Renault
+>  <small> When teachers teach with love, combining care, commitment, knowledge, responsibility, respect, and trust, we are often able to enter the classroom and go straight to the heart of the matter, which is knowing what to do on any given day to create the best climate for learning (B.hooks, 2003). </small> 
 
-## Undergraduate Courses
+**Teaching Philosophy:** I passionately believe in the power of the classroom to inspire innovative solutions to resolve humanity’s gravest problems. I aspire to bring the world to my classroom in all its glory and chaos to instil critical hope and inspire my students to catalyse social change for an equitable and just society, especially in the context of combating climate emergency. 
+
+### M.Sc. in Sustainable Chemical Engineering
 * Spring Semester 2023-24
-    * Course: EC203 Applied Econometrics
-    * Instructor: Tom Martin
-* Fall Semester 2022-23
-    * Course: EC124 Statistical Techniques B
-    * Instructor: Jeremy Smith
-    * Evaluation: **4.8/5**
+  * CME8012 Business and Environmental Management (Module Leader)
+  * CME8038 Sustainable Industry
 
----
-### Student Evaluations
-
-> <small>  Very helpful classes, he slows down and makes sure everything is clear and can explain the topics very well </small>
-
-> <small>  He was really great at explaining everything and the seminars were laid out in a good way where you try the question then he goes through it which actually helped me think about how i would do it then seeeing his way </small>
 
 
 
