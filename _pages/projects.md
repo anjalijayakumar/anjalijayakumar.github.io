@@ -11,7 +11,7 @@ horizontal: false
 
 ## Biochar
 
-I specialise in production, characterisation, and several energy and enviormental applications of biochar. Biochar is a multi-functional, carbon-rich product of the thermochemical conversion of biomass and organic wastes under oxygen-deficient conditions. Biochar’s long-term carbon sequestration potential and is recognised by the IPCC as a carbon-negative technology.
+I specialise in the production, characterisation, and several energy and enviormental applications of biochar. Biochar is a multi-functional, carbon-rich product of the thermochemical conversion of biomass and organic wastes under oxygen-deficient conditions. Biochar’s long-term carbon sequestration potential and is recognised by the IPCC as a carbon-negative technology.
 
 
 <div class="row">
