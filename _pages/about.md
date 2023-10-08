@@ -20,3 +20,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a Lecturer in Chemical Engineering at the School of Engineering at Newcastle University since December 2022. I study and design sustainable materials produced from renewable resources such as biomass, mineral wastes, and microorganisms and utilise them to improve food-energy-water security.
 
+Find my other human interests [here](blog/2023/other-human-interests).
+
