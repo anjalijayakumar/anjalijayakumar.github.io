@@ -2,7 +2,7 @@
 layout: page
 title: GHG adsorption on Biochar 
 description:
-img:
+img: assets/img/co2.png
 importance: 4
 category: Research
 related_publications: 

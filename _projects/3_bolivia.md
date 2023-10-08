@@ -2,7 +2,7 @@
 layout: page
 title: Community Water Management in Bolivia 
 description:
-img:
+img: assets/img/basin.jpg
 importance: 3
 category: Research
 related_publications: 
