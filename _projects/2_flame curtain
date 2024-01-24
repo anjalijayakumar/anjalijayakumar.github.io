@@ -8,8 +8,7 @@ category: Research
 related_publications: 
 ---
 
-I study decentralised, home and community-scale production of biochar via flame curtain pyrolysis. I led the first-ever systematic study investigating the effect of process conditions on emissions and biochar quality in the operation of a flame curtain pyrolysis kiln. Currently, I am working towards pilot-scale implementation of flame curtain pyrolysis including standardising the production methodology for use in several places including Bolivia for their community water management programme.
-
+I study decentralised, home and community-scale production of biochar via flame curtain pyrolysis. I led the first-ever systematic study investigating the effect of process conditions on emissions and biochar quality in the operation of a flame curtain pyrolysis kiln. Currently, I am working towards pilot-scale implementation of flame curtain pyrolysis including standardising the production methodology for use in several places including Bolivia for their community water management programme. With increasing popularity of decentralised pyrolysis units, it is necessary to establish a firm basis for assessing the efficiency and environmental performance of these processes. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,8 +19,17 @@ I study decentralised, home and community-scale production of biochar via flame 
     Flame curtain pyrolysis in action.
 </div>
 
+My home backyard as a laboratory for biochar production from our backyard wastes using a home-made flame curtain pyrolyser (with my folks being brilliant lab assistants!!).
 
-With increasing popularity of decentralised pyrolysis units, it is necessary to establish a firm basis for assessing the efficiency and environmental performance of low-cost biochar production processes. This becomes more relevant when considering that voluntary carbon removal markets start to include biochar as a viable carbon offset technology for carbon sequestration, as recently shown by large purchases of biochar carbon offsets by Multi-National Corporations such as Microsoft (Microsoft, 2022). However, studies to properly account for greenhouse gas (GHG) emission reductions of low-cost pyrolysis, such as flame curtain pyrolysis, are still scarce. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/flame_home.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Biochar production at home.
+</div>
+
 
 
 
